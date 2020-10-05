@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭  I’m currently a free man.
+- 🌱  I’m currently learning go-design-implementation.
+- 📫  Feel free to [Email](mailto::ketchupz@qq.com) Me!
 <!--
 **LieLieLiekey/LieLieLieKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
