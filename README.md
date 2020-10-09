@@ -2,6 +2,8 @@
 - 🔭  I’m currently a free man.
 - 🌱  I’m currently learning go-design-implementation.
 - 📫  Feel free to [Email](mailto::ketchupz@qq.com) Me!
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LieLieLieKey&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LieLieLiekey/LieLieLieKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
