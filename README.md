@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭  I’m not currently a free man.
-- 🌱  I’m currently learning everything which interests for me.
+- 🔭  I’m currently working on @bytedance company
+- 🌱  I’m currently learning everything which interests for me, more interesting in AIGC.
 - 📫  Feel free to [Email](mailto::ketchupz@qq.com) Me!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LieLieLieKey&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
