@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭  I’m currently working on @bytedance company，but I am looking for opportunities in the AI domain
 - 🌱  I'm currently trying to learn everything that interests me, such as AIGC.
-- 📫  Feel free to [Email](mailto::ketchupz@qq.com) Me!
+- 📫  Feel free to [Email](mailto::ketchupz1999@gmail.com) Me!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LieLieLieKey&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
