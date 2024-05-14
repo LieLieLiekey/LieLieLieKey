@@ -6,11 +6,11 @@
 
 ----------
 Quick Links:
-- 大学期间的笔记：[https://github.com/LieLieLiekey?tab=repositories](https://github.com/LieLieLiekey/Note-FromCSDN)
+- 大学期间的笔记：[https://github.com/LieLieLiekey/Note-FromCSDN](https://github.com/LieLieLiekey/Note-FromCSDN)
 - 工作后的笔记和记录：<目前 private，未脱敏不开放>
 - 参加的开源项目：
-  - BlueKing CMDB at Tencent： https://github.com/TencentBlueKing/bk-cmdb
-  - Aliyun Otter：[https://github.com/LieLieLiekey/Note-FromCSDN](https://github.com/LieLieLiekey/otter)（只是修复了一些问题，未合 PR）
+  - BlueKing CMDB at Tencent: [https://github.com/TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb)
+  - Aliyun Otter: [otter](https://github.com/LieLieLiekey/otter)（只是修复了一些问题，未合 PR）
 
 -----------
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LieLieLieKey&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
