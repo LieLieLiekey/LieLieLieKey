@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💼 目前我在 @bytedance 从事服务端研发工作，但我正在寻找新机会，特别是 AI 相关领域
+- 💼 目前我正在寻找新机会，特别是 AI 相关领域
 - 🌱 喜欢做有挑战性的东西，也很喜欢算法和计算科学，偶尔参加线上的ACM竞赛（[CodeForce](https://codeforces.com/profile/KetchupZ).）和安全比赛（CTF）。
 - 😄 最近在努力学习英语口语，计划去旅行✈️，生活之余喜欢健身🏋️、游泳🏊和读书📖
 - 📫  Feel free to [Email](mailto::ketchupz1999@gmail.com) Me!
