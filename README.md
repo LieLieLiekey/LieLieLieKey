@@ -61,7 +61,7 @@
 
 | Period | Company | Role | Key Modules / Highlights |
 | :-- | :-- | :-- | :-- |
-| Jun 2024 – Present | StepStars | Software Engineer | Confidential |
+| Jun 2024 – Present | StepFun | Software Engineer | Confidential |
 | Jul 2021 – Jun 2024 | ByteDance · Nuverse | DevOps / Backend Engineer | - Login & Unified Identity (SSO)<br>- ABAC-based Authorization<br>- OS Management Platform (SaltStack)<br>- Performance Profiling<br>- …<br><br>Architected and optimized core services for the game Ops platform, ensuring reliable launches for 30+ titles. |
 | Jun 2020 – Sep 2020 | Tencent (Intern) | DevOps Engineering Intern | [BlueKing CMDB at Tencent](https://github.com/TencentBlueKing/bk-cmdb) |
 
